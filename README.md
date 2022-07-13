@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kholani Benelzane
 - 👀 I’m interested in php, java and javascript. I like experimenting with other techonologies to expand my knowledge in software development.
-- 🌱 I’m currently learning about symfony php and vue framework
-- 💞️ I’m looking to collaborate on node js and php projects
+- 🌱 I’m currently learning about symfony php and react js
+- 💞️ I’m looking to collaborate on javaScript and php projects
